@@ -1,0 +1,25 @@
+22
+A21 Huntington/Parker 145
+Huntington/Parker Parker/Ruggles 725
+Parker/Ruggles A23C 620
+Parker/Ruggles Ruggles/Leon 710
+Ruggles/Leon A24 270
+A24 A26 130
+A26 A33 310
+A33 A35 180
+A35 A55 235
+A55 A57 220
+A57 A30 210
+A30 A24 300
+Huntington/Parker A37 330
+A37  Huntington/Forsyth 280
+Huntington/Forsyth A55 420
+Huntington/Forsyth A41 400
+A41 A43 565
+A43 Huntington/Gainsborough 565
+Huntington/Gainsborough Gainsborough/StBotolph 290
+Gainsborough/StBotolph A44 400
+Gainsborough/StBotolph A46 665
+A46 A59 590
+A59 A53 255
+A53 A55 430 
